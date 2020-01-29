@@ -46,6 +46,11 @@
     <Compile Include="AdolescenceInsured.cs" />
     <Compile Include="AdultInsured.cs" />
     <Compile Include="ChildInsured.cs" />
+    <Compile Include="FactoryPattern\AdolescenceInsuredFactory.cs" />
+    <Compile Include="FactoryPattern\AdultInsuredFactory.cs" />
+    <Compile Include="FactoryPattern\ChildInsuredFactory.cs" />
+    <Compile Include="FactoryPattern\InsuredFactory.cs" />
+    <Compile Include="FactoryPattern\SeniorAdultInsuredFactory.cs" />
     <Compile Include="Insured.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
